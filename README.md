@@ -1,0 +1,2 @@
+# ImageProcessing_histogramEqualization
+Making Histogram Eqaulization function with CxImage
